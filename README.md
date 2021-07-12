@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Devi
+- I'm a MVC .net developer
 - 👀 I’m interested in Learning new things,Listening Music
 - 🌱 I’m currently learning Angular and .net core
 - 📫 How to reach me  www.linkedin.com/in/devi-m-469527154
