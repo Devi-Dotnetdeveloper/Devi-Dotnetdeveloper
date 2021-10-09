@@ -3,7 +3,7 @@
 - 🔭 I'm currently working in https://www.aspiresys.com/ 
 - 👀 I’m interested in Learning new things,Listening Music
 - 🌱 I’m currently learning Angular and .net core
-- 📓 Ask me about MVC C# .net and HTML,CSS,Javascript,Typescript,JQuery  
+- 💬 Ask me about MVC C# .net and HTML,CSS,Javascript,Typescript,JQuery  
 - 📫 How to reach me  www.linkedin.com/in/devi-m-469527154
   
 <!---
